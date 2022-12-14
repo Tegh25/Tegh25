@@ -56,7 +56,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Datadog](https://img.shields.io/badge/DataDog-632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![DBeaver](https://img.shields.io/badge/Microsoft_Azure-FD5750.svg?style=for-the-badge)
+![DBeaver](https://img.shields.io/badge/DBeaver-FD5750.svg?style=for-the-badge)
 ![Inventor](https://img.shields.io/badge/Autodesk_Inventor-0696D7.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SOLIDWORKS-005386.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![GrabCAD](https://img.shields.io/badge/GrabCAD-FF0000.svg?style=for-the-badge)
