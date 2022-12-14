@@ -66,13 +66,13 @@
 ![FlexPDE](https://img.shields.io/badge/FlexPDE-FFD000.svg?style=for-the-badge)
 ![OracleVBox](https://img.shields.io/badge/Oracle_VirtualBox-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware_Workstation-607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
-![MSAzure](https://img.shields.io/badge/Microsoft_Azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MSAzure](https://img.shields.io/badge/Microsoft_Azure-0078D4.svg?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)
 ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![MSPPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 ![MSWord](https://img.shields.io/badge/Microsoft_Word-2B579A.svg?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-9999FF.svg?style=for-the-badge&logo=adobepremiere&logoColor=white)
+![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-9999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ## 📊 Stats
