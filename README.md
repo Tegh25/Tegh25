@@ -38,6 +38,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 ![MatLab](https://img.shields.io/badge/Matlab-0085CA.svg?style=for-the-badge)
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white)
 
 ## 🔧 Tools & Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
