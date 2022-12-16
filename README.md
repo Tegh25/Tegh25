@@ -67,6 +67,7 @@
 ![FlexPDE](https://img.shields.io/badge/FlexPDE-FFD000.svg?style=for-the-badge)
 ![OracleVBox](https://img.shields.io/badge/Oracle_VirtualBox-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware_Workstation-607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
+![CiscoPacketTracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![MSAzure](https://img.shields.io/badge/Microsoft_Azure-0078D4.svg?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)
 ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![MSPPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
