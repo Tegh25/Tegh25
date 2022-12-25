@@ -41,7 +41,7 @@
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white)
 
 ## 🔧 Tools & Technologies
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -52,6 +52,8 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![ReactRouter](https://img.shields.io/badge/React_Router-CA4245.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -61,7 +63,7 @@
 ![Inventor](https://img.shields.io/badge/Autodesk_Inventor-0696D7.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SOLIDWORKS-005386.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![GrabCAD](https://img.shields.io/badge/GrabCAD-FF0000.svg?style=for-the-badge)
-![Granta](https://img.shields.io/badge/Granta_EduPack-FFB71B.svg?style=for-the-badge&logo=ansys&logoColor=white)
+![Granta](https://img.shields.io/badge/Granta_EduPack-FFB71B.svg?style=for-the-badge&logo=ansys&logoColor=black)
 ![MatLab](https://img.shields.io/badge/Matlab-0085CA.svg?style=for-the-badge)
 ![Maple](https://img.shields.io/badge/Maple-004088.svg?style=for-the-badge)
 ![FlexPDE](https://img.shields.io/badge/FlexPDE-FFD000.svg?style=for-the-badge)
