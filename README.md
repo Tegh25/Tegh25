@@ -81,8 +81,8 @@
 ![MSPPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 ![MSWord](https://img.shields.io/badge/Microsoft_Word-2B579A.svg?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere_Pro-9999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-081C38.svg?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere_Pro-2C2C4A.svg?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ## 📊 Stats
