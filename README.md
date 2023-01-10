@@ -30,7 +30,7 @@
 
 **My Favourite Project:** creating an online coding club to introduce middle school students in my area to coding and computers --> [![CodingClub](https://img.shields.io/badge/Online_Coding_Club-A9225C.svg?style=for-the-badge)](https://sites.google.com/view/c0dingclub/home)
 
-## 💻 Languages 
+## 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
