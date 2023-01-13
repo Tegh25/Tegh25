@@ -86,7 +86,7 @@
 ![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere_Pro-2C2C4A.svg?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-## 📊 Stats
+## 📊 Stats 
 
 [![Teghveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tegh25&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tegh25&theme=dark)](https://git.io/streak-stats)
 
