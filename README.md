@@ -14,11 +14,11 @@
 
 🤖 I’m currently studying **Mechatronics Engineering & Society** at *McMaster University* 🍁
 
-🏎️ I am programming the embedded software for our racecar at <a href="https://macformularacing.com/" target="_blank">MAC Formula Electric Racing</a></p>
+🏎️ I am programming the embedded software for our racecar at <a href="https://macformularacing.com/" target="_blank">MAC Formula Electric Racing</a>
 
-🛩️ I am designing and building the structure of our very first aircraft on the <a href="https://mcmasteraerospace.com/" target="_blank">McMaster Aerospace Team</a></p>
+🛩️ I am designing and building the structure of our very first aircraft on the <a href="https://mcmasteraerospace.com/" target="_blank">McMaster Aerospace Team</a>
 
-⚙️ VP Sponsorship Executive at the <a href="https://www.mcmasterdesignleague.com/" target="_blank">McMaster Design League</a></p>
+⚙️ VP Sponsorship Executive at the <a href="https://www.mcmasterdesignleague.com/" target="_blank">McMaster Design League</a>
 
 💡 I am currently seeking **Fall 2023** engineering internships and co-op opportunities
 
