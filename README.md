@@ -11,7 +11,7 @@
 
 <!--- <h3 align="center"> Enthusiastic about fast cars, aviation, deep space, and machine learning... </h3> --->
 
-🏦 Returning **Summer 2023** software engineer intern at TD Bank
+🏦 Returning **Summer 2023** software engineer CO-OP student at TD Bank
 
 🤖 I’m currently studying **Mechatronics Engineering & Society** at *McMaster University* 🍁
 
