@@ -87,6 +87,7 @@
 ![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere_Pro-2C2C4A.svg?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=STMicroelectronics)
+![Keil_uVision_5](https://img.shields.io/badge/Keil_uVision_5-347535.svg?style=for-the-badge)
 
 ## 📊 Stats
 
