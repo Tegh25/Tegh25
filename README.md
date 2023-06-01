@@ -42,6 +42,7 @@
 ![Assembly](https://img.shields.io/badge/Assembly-0091BD.svg?style=for-the-badge&logo=arm&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-1B1E24.svg?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![MatLab](https://img.shields.io/badge/Matlab-0085CA.svg?style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white)
 
 ## 🔧 Tools & Technologies
