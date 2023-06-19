@@ -29,7 +29,7 @@
 [![GrabCAD](https://img.shields.io/badge/GrabCAD-FF0000.svg?style=for-the-badge)](https://workbench.grabcad.com/teghveer.ateliey-1)
 [![Notion](https://img.shields.io/badge/First--Year_Eng_Projects-000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://atelieyt.notion.site/atelieyt/Teghveer-Singh-Ateliey-ce61191a22cd43b78d930792bfe42196)
 
-**My Favourite Project:** creating an online coding club to introduce middle school students in my area to coding and computers --> [![CodingClub](https://img.shields.io/badge/Online_Coding_Club-A9225C.svg?style=for-the-badge)](https://sites.google.com/view/c0dingclub/home)
+**My Favourite Project:** Creating an online coding club to introduce middle school students in my area to coding and computers --> [![CodingClub](https://img.shields.io/badge/Online_Coding_Club-A9225C.svg?style=for-the-badge)](https://sites.google.com/view/c0dingclub/home)
 
 ## 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -42,7 +42,7 @@
 ![Assembly](https://img.shields.io/badge/Assembly-0091BD.svg?style=for-the-badge&logo=arm&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-1B1E24.svg?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![MatLab](https://img.shields.io/badge/Matlab-0085CA.svg?style=for-the-badge)
-![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
+![R](https://img.shields.io/badge/R-lightgrey.svg?style=for-the-badge&logo=R&logoColor=276DC3)
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white)
 
 ## 🔧 Tools & Technologies
