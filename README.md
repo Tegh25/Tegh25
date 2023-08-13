@@ -88,7 +88,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-081C38.svg?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
 ![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere_Pro-2C2C4A.svg?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/-Arduino-FFFFFF?style=for-the-badge&logo=arduino)
+![Arduino](https://img.shields.io/badge/-Arduino-FFFFFF?style=for-the-badge&logo=arduino&logoColor=blue)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=STMicroelectronics)
 ![Keil_uVision_5](https://img.shields.io/badge/Keil_uVision_5-347535.svg?style=for-the-badge)
 
