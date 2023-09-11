@@ -17,7 +17,7 @@
 
 🤖 I’m currently studying **Mechatronics Engineering & Society** at *McMaster University* 🍁
 
-🛩️ I am a Payload Firmware Specialist on the <a href="https://mcmasterneudose.ca/" target="_blank">McMaster Interdisciplinary Satelite Team</a>
+🛰️ I am a Payload Firmware Specialist on the <a href="https://mcmasterneudose.ca/" target="_blank">McMaster Interdisciplinary Satelite Team</a>
 
 🏎️ I am programming the embedded software for our racecar at <a href="https://macformularacing.com/" target="_blank">MAC Formula Electric Racing</a>
 
