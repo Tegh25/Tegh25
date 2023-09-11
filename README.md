@@ -11,17 +11,17 @@
 
 <!--- <h3 align="center"> Enthusiastic about fast cars, aviation, deep space, and machine learning... </h3> --->
 
-🏦 Current **Summer 2023** Software Engineer Co-Op student at TD Bank
+💡 I am currently seeking **Summer 2024** engineering internships and co-op opportunities
+
+🏦 Previous Software Engineer Co-Op student at TD Bank
 
 🤖 I’m currently studying **Mechatronics Engineering & Society** at *McMaster University* 🍁
 
+🛩️ I am a Payload Firmware Specialist on the <a href="https://mcmasteraerospace.com/" target="_blank">McMaster Interdisciplinary Satelite Team</a>
+
 🏎️ I am programming the embedded software for our racecar at <a href="https://macformularacing.com/" target="_blank">MAC Formula Electric Racing</a>
 
-🛩️ I am designing and building the structure of our very first aircraft on the <a href="https://mcmasteraerospace.com/" target="_blank">McMaster Aerospace Team</a>
-
-⚙️ VP Sponsorship Executive at the <a href="https://www.mcmasterdesignleague.com/" target="_blank">McMaster Design League</a>
-
-💡 I am currently seeking **Fall 2023** engineering internships and co-op opportunities
+⚙️ Outreach Specialist at the <a href="https://www.mcmasterdesignleague.com/" target="_blank">McMaster Design League</a>
 
 ## 😎 More From Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/teghveerateliey)
