@@ -44,6 +44,7 @@
 ![Bash](https://img.shields.io/badge/Bash-1B1E24.svg?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![MatLab](https://img.shields.io/badge/Matlab-0085CA.svg?style=for-the-badge)
 ![R](https://img.shields.io/badge/R-lightgrey.svg?style=for-the-badge&logo=R&logoColor=276DC3)
+![julia](https://img.shields.io/badge/julia-9558B2.svg?style=for-the-badge&logo=julia&logoColor=white)
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white)
 
 ## 🔧 Tools & Technologies
@@ -68,6 +69,9 @@
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-8BEAF5.svg?style=for-the-badge&logoColor=white)
+![pygame](https://img.shields.io/badge/pygame-61CD60.svg?style=for-the-badge&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Datadog](https://img.shields.io/badge/DataDog-632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
@@ -97,6 +101,6 @@
 
 ## 📊 Stats
 
-[![Teghveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tegh25&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tegh25&theme=dark)](https://git.io/streak-stats)
+[![Teghveer's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tegh25&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tegh25&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tegh25&langs_count=10&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
