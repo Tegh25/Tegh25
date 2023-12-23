@@ -40,6 +40,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-F0F0F0.svg?style=for-the-badge)
 ![Assembly](https://img.shields.io/badge/Assembly-0091BD.svg?style=for-the-badge&logo=arm&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-1B1E24.svg?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![MatLab](https://img.shields.io/badge/Matlab-0085CA.svg?style=for-the-badge)
