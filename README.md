@@ -7,13 +7,13 @@
 </p>
 
 ---
-<!--- Updated: Feb 7,2023 ---> 
+<!--- Updated: Jan 24,2024 ---> 
 
 <!--- <h3 align="center"> Enthusiastic about fast cars, aviation, deep space, and machine learning... </h3> --->
 
 💡 I am currently seeking **Summer 2024** engineering internships and co-op opportunities
 
-🏦 Previous Software Engineer Co-Op student at TD Bank
+🏦 Previous Software Engineer Intern at TD Bank
 
 🤖 I’m currently studying **Mechatronics Engineering & Society** at *McMaster University* 🍁
 
