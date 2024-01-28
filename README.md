@@ -64,6 +64,7 @@
 ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-1b1c26.svg?style=for-the-badge&logo=electron&logoColor=9feaf9)
 ![Dotnet](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
