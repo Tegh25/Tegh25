@@ -74,6 +74,7 @@
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-8BEAF5.svg?style=for-the-badge&logoColor=white)
 ![pygame](https://img.shields.io/badge/pygame-61CD60.svg?style=for-the-badge&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
