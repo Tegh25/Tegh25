@@ -90,7 +90,7 @@
 ![MatLab](https://img.shields.io/badge/Matlab-0085CA.svg?style=for-the-badge)
 ![Maple](https://img.shields.io/badge/Maple-004088.svg?style=for-the-badge)
 ![FlexPDE](https://img.shields.io/badge/FlexPDE-FFD000.svg?style=for-the-badge)
-![OracleVBox](https://img.shields.io/badge/Oracle_VirtualBox-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![OracleVBox](https://img.shields.io/badge/Oracle_VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware_Workstation-607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
 ![CiscoPacketTracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![MSAzure](https://img.shields.io/badge/Microsoft_Azure-0078D4.svg?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)
