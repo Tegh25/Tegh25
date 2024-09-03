@@ -13,6 +13,8 @@
 
 <!--- 💡 I am currently seeking **Summer 2024** engineering internships and co-op opportunities --->
 
+<!--- 🍁 Seeking Summer 2024 Co-op Opportunities --->
+
 🏦 Previous Software Engineer Intern at TD Bank
 
 🤖 I’m currently studying **Mechatronics Engineering & Society** at *McMaster University* 🍁
