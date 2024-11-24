@@ -28,8 +28,8 @@
 ## 😎 More From Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/teghveerateliey)
 [![Devpost](https://img.shields.io/badge/Devpost-%230D597F.svg?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/Tegh25)
-[![GrabCAD](https://img.shields.io/badge/GrabCAD-FF0000.svg?style=for-the-badge)](https://workbench.grabcad.com/teghveer.ateliey-1)
 [![Notion](https://img.shields.io/badge/First--Year_Eng_Projects-000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://atelieyt.notion.site/atelieyt/Teghveer-Singh-Ateliey-ce61191a22cd43b78d930792bfe42196)
+<!-- [![GrabCAD](https://img.shields.io/badge/GrabCAD-FF0000.svg?style=for-the-badge)](https://workbench.grabcad.com/teghveer.ateliey-1) -->
 
 **My Favourite Project:** Creating an online coding club to introduce middle school students in my area to coding and computers --> [![CodingClub](https://img.shields.io/badge/Online_Coding_Club-A9225C.svg?style=for-the-badge)](https://sites.google.com/view/c0dingclub/home)
 
