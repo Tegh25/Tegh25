@@ -15,6 +15,8 @@
 
 <!--- 🍁 Seeking Summer 2024 Co-op Opportunities --->
 
+📺 FPGA Design Engineer Intern at [Evertz Microsystems](https://evertz.com/contact/about/)
+
 🏦 Previous Software Engineer Intern at [TD Bank](https://www.td.com/ca/en/about-td)
 
 🤖 I’m currently studying **Mechatronics Engineering & Society** at *McMaster University* 🍁
@@ -23,7 +25,7 @@
 
 🏎️ I am programming the embedded software for our racecar at [MAC Formula Electric Racing](https://macformularacing.com/)
 
-⚙️ Outreach Specialist at the [McMaster Design League](https://www.mcmasterdesignleague.com/)
+⚙️ Ex-Outreach Specialist at the [McMaster Design League](https://www.mcmasterdesignleague.com/)
 
 ## 😎 More From Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/teghveerateliey)
