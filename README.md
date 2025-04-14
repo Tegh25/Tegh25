@@ -102,7 +102,9 @@
 ![Kali](https://img.shields.io/badge/Kali-557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=STMicroelectronics)
 ![Keil_uVision_5](https://img.shields.io/badge/Keil_uVision_5-347535.svg?style=for-the-badge)
-![Vivado/Vitis](https://img.shields.io/badge/Vivado/Vitis-CC0000.svg?style=for-the-badge)
+![Quartus](https://img.shields.io/badge/Quartus-0071C5.svg?style=for-the-badge&logo=intel)
+![Vitis](https://img.shields.io/badge/Vitis-ED1C24.svg?style=for-the-badge&logo=amd)
+![Vivado](https://img.shields.io/badge/Vivado-A9C23F.svg?style=for-the-badge&logo=amd)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-FFFFFF?style=for-the-badge&logo=arduino&logoColor=blue)
 
