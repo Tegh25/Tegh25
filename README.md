@@ -46,6 +46,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-F0F0F0.svg?style=for-the-badge)
+![VHDL](https://img.shields.io/badge/VHDL-A9C23F.svg?style=for-the-badge&logoColor=black)
 ![Assembly](https://img.shields.io/badge/Assembly-0091BD.svg?style=for-the-badge&logo=arm&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-1B1E24.svg?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![MatLab](https://img.shields.io/badge/Matlab-0085CA.svg?style=for-the-badge)
@@ -62,6 +63,8 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Make](https://img.shields.io/badge/Make-000000.svg?style=for-the-badge&logo=gnu&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Dotnet](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
@@ -87,6 +90,7 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![OracleVBox](https://img.shields.io/badge/Oracle_VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware_Workstation-607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### 📊 Data Science & Programming
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
