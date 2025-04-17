@@ -115,6 +115,8 @@
 ![Inventor](https://img.shields.io/badge/Autodesk_Inventor-0696D7.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SOLIDWORKS-005386.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![GrabCAD](https://img.shields.io/badge/GrabCAD-FF0000.svg?style=for-the-badge)
+![LTspice](https://img.shields.io/badge/LTspice-900028.svg?style=for-the-badge&logo=ltspice&logoColor=white)
+![Multisim](https://img.shields.io/badge/Multisim-57B685.svg?style=for-the-badge&logo=multisim&logoColor=white)
 ![FlexPDE](https://img.shields.io/badge/FlexPDE-FFD000.svg?style=for-the-badge)
 ![CiscoPacketTracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Granta](https://img.shields.io/badge/Granta_EduPack-FFB71B.svg?style=for-the-badge&logo=ansys&logoColor=black)
