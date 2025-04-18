@@ -103,6 +103,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-44AA44.svg?style=for-the-badge&logo=freertos&logoColor=white)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=STMicroelectronics)
 ![Keil_uVision_5](https://img.shields.io/badge/Keil_uVision_5-347535.svg?style=for-the-badge)
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5.svg?style=for-the-badge&logo=intel)
