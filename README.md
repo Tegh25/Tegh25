@@ -17,7 +17,7 @@
 
 📺 FPGA Design Engineer Intern at [Evertz Microsystems](https://evertz.com/contact/about/)
 
-🏦 Previous Software Engineer Intern at [TD Bank](https://www.td.com/ca/en/about-td)
+🏦 Previous Software Engineer & Business Systems Analyst Intern at [TD Bank](https://www.td.com/ca/en/about-td)
 
 🤖 I’m currently studying **Mechatronics Engineering & Society** at *McMaster University* 🍁
 
