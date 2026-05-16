@@ -15,7 +15,9 @@
 
 <!--- 🍁 Seeking Summer 2024 Co-op Opportunities --->
 
-📺 FPGA Design Engineer Intern at [Evertz Microsystems](https://evertz.com/contact/about/)
+💻 Software Engineering Fellow at the [MLH Fellowship](https://fellowship.mlh.io/)
+
+📺 Previous FPGA Design Engineer Intern at [Evertz Microsystems](https://evertz.com/contact/about/)
 
 🏦 Previous Software Engineer & Business Systems Analyst Intern at [TD Bank](https://www.td.com/ca/en/about-td)
 
