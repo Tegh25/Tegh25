@@ -30,7 +30,9 @@
 ⚙️ Ex-Outreach Specialist at the [McMaster Design League](https://www.mcmasterdesignleague.com/)
 
 ## 😎 More From Me
+[![Personal Website](https://img.shields.io/badge/Personal_Website-111112.svg?style=for-the-badge&logoColor=white)](https://www.teghveerateliey.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/teghveerateliey)
+[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Tegh25)
 [![Devpost](https://img.shields.io/badge/Devpost-%230D597F.svg?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/Tegh25)
 [![Notion](https://img.shields.io/badge/First--Year_Eng_Projects-000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://atelieyt.notion.site/atelieyt/Teghveer-Singh-Ateliey-ce61191a22cd43b78d930792bfe42196)
 <!-- [![GrabCAD](https://img.shields.io/badge/GrabCAD-FF0000.svg?style=for-the-badge)](https://workbench.grabcad.com/teghveer.ateliey-1) -->
